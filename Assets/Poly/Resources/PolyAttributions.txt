@@ -1,0 +1,55 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: angry teen
+Author: Michael Pretz
+URL: https://poly.google.com/view/2E0W94uZFGn
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Casual girl
+Author: Michael Pretz
+URL: https://poly.google.com/view/exLBVNiIiVG
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cheering Crowd
+Author: Tiff Eidmann
+URL: https://poly.google.com/view/4ewdqwqYjkX
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: edd
+Author: onix m
+URL: https://poly.google.com/view/0-i5OyZSaou
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Like me
+Author: Michael Pretz
+URL: https://poly.google.com/view/48WoJ2VtV7t
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Mesa Sala de Aula
+Author: Tio Jota Lopes
+URL: https://poly.google.com/view/a8tgV9t8_pP
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: oh god what have i done
+Author: Max Messina
+URL: https://poly.google.com/view/563vrFhjafb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Teacher
+Author: Poly by Google
+URL: https://poly.google.com/view/5v5j_lqOHTO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Wolfpack calculations
+Author: James Äschdeıx
+URL: https://poly.google.com/view/4KKHchU6K7e
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

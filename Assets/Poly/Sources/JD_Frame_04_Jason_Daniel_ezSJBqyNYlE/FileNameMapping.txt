@@ -1,0 +1,4 @@
+textures/None_abstract-dark-wooden-background_23-2148261964.jpg_baseColor.jpeg -> A17593991A2BBD774C570DAA775E9465.jpeg
+textures/None_baseColor.jpeg -> 8444C961426EA04ABA7DD56EB311764E.jpeg
+textures/None_normal.png -> F5022DF6A3DE76B1AE591E173E38A749.png
+scene.bin -> E0C5CEE43DB1A80C6DEDB94F23180265.bin
